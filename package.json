@@ -84,7 +84,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
     "@heyputer/puter.js": "^2.2.5",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1"
   },
   "engines": {
